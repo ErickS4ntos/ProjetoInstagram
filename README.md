@@ -1,2 +1,2 @@
 # Projeto Instagram
-Neste projeto usando o flexbox recriei a página de login do Instagram. Sendo que nele fiz um design responsivo para quando tiver telas de determinado tamanho a imagem do celular vai sumir.
+Neste projeto, a partir de um desafio de projeto da Digital Inovattion One, usando HTML5, CSS flexbox, recriei a página de login do Instagram. Sendo que nesta tela fiz um design responsivo para quando tiver telas de dimensões menores a tela se adaptar ao novo tamanho de tela.
